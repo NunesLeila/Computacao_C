@@ -1,0 +1,35 @@
+Cadastro da Carta 1:
+Digite o estado (A-H): A
+Digite o código da carta (ex: A01): A01
+Digite o nome da cidade: São Paulo
+Digite a população da cidade: 12325000
+Digite a área da cidade (em km²): 1521.11
+Digite o PIB da cidade (em bilhões de reais): 699.28
+Digite o número de pontos turísticos: 50
+
+Cadastro da Carta 2:
+Digite o estado (A-H): B
+Digite o código da carta (ex: B02): B02
+Digite o nome da cidade: Rio de Janeiro
+Digite a população da cidade: 6748000
+Digite a área da cidade (em km²): 1200.25
+Digite o PIB da cidade (em bilhões de reais): 300.50
+Digite o número de pontos turísticos: 30
+
+Carta 1:
+Estado: A
+Código: A01
+Nome da Cidade: São Paulo
+População: 12325000
+Área: 1521.11 km²
+PIB: 699.28 bilhões de reais
+Número de Pontos Turísticos: 50
+
+Carta 2:
+Estado: B
+Código: B02
+Nome da Cidade: Rio de Janeiro
+População: 6748000
+Área: 1200.25 km²
+PIB: 300.50 bilhões de reais
+Número de Pontos Turísticos: 30
